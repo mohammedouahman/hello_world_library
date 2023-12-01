@@ -1,5 +1,4 @@
 # Define Hello World function
 
-def hello_wrold():
+def hello_world():
     print("Hello, World!")
-    
